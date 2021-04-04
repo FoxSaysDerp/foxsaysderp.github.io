@@ -1,8 +1,8 @@
 <?php
 $header = ('Content-Type: text/html; charset=UTF-8');
 
-	$to = "dezydery.pudelko@gmail.com";
-	$subject = "Wiadomość ze strony CONSTANS";
+	$to = "foxsaysderp@gmail.com";
+	$subject = "Wiadomość ze strony";
 
 	if (isset($_POST["name"]) && isset($_POST["email"]) && isset($_POST["message"])) {
 
